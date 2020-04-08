@@ -22,7 +22,7 @@ const IndexPage = () => (
     <div class="container-fluid py-5">
       <section>
           <h1>Background</h1>
-          <p>We are a grassroots effort to help bring organization and direction to those individuals in our community that are interested in volunteering. Covid19 has had a significant impact on the community we know and love, and together we can find ways to reduce the damage caused by that impact and help those in our community that are at the front-lines of protecting us.  Please fill out the form below if you would like to be involved in setting up, organizing and/or volunteering in our community.</p>
+          <p>We are a grassroots effort to help bring organization and direction to those individuals in our community that are interested in volunteering. Covid19 has had a significant impact on the community we know and love, and together we can find ways to reduce the damage caused by that impact and help those in our community that is at the front-lines of protecting us. Please fill out the form below if you would like to be involved in setting up, organizing and/or volunteering in our community.</p>
       </section>
     </div>
 
