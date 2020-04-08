@@ -11,7 +11,7 @@ const IndexPage = () => (
 
     <section class="jumbotron text-center">
       <div class="container">
-        <h1 class="jumbotron-heading display-1 text-white">Volunteers helping fight Covid19 in Montclair</h1>
+        <h1 class="jumbotron-heading display-1 text-white">Volunteers helping to fight Covid19 in Montclair</h1>
         <p class="lead text-white">Together, we can make an impact. Here, at home.</p>
         <p>
           <a href="#volunteer" class="btn btn-primary my-2">Register to Volunteer</a>
