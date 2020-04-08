@@ -11,7 +11,7 @@ const IndexPage = () => (
 
     <section class="jumbotron text-center">
       <div class="container">
-        <h1 class="jumbotron-heading display-1 text-white">Volunteers helping to fight Covid19 in Montclair</h1>
+        <h1 class="jumbotron-heading display-4 text-white">Volunteers helping to fight Covid19 in Montclair</h1>
         <p class="lead text-white">Together, we can make an impact. Here, at home.</p>
         <hr/>
         <p>
@@ -23,7 +23,7 @@ const IndexPage = () => (
     <div class="container-fluid py-5">
       <section>
           <h1>Background</h1>
-          <p>We are a grassroots effort to help bring organization and direction to those individuals in our community that are interested in volunteering. Covid19 has had a significant impact on the community we know and love, and together we can find ways to reduce the damage caused by that impact and help those in our community that is at the front-lines of protecting us. Please fill out the form below if you would like to be involved in setting up, organizing and/or volunteering in our community.</p>
+          <p>We are a grassroots effort looking to provide individuals in our community interested in volunteering an organized way to find opportunities to help.  Covid19 has had a significant impact on the community we know and love.  There are many opportunities to help our community and those who are on the frontline of protecting us.  We are developing this website as a means to provide information about those opportunities and to help organize volunteers.  Please fill out the form below if you would like to be involved and help the community.</p>
       </section>
     </div>
 
